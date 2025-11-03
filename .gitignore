@@ -1,0 +1,16 @@
+# Node / web
+web/node_modules/
+web/dist/
+
+# Expo / mobile
+mobile/node_modules/
+mobile/.expo/
+mobile/.expo-shared/
+mobile/dist/
+mobile/ios/
+mobile/android/
+
+# SO / editor
+.DS_Store
+Thumbs.db
+*.log
