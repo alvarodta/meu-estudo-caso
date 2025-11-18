@@ -83,7 +83,7 @@ npm run test:ui
 
 Deploy no Vercel
 Aplicação Web publicada conforme orientações da AV2.
-(Adicionar link após publicação)
+https://meu-estudo-caso-kappa.vercel.app/
 
 --------------------------------------------------------------------------------
 
